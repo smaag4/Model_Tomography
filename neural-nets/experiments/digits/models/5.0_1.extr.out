@@ -1,0 +1,23 @@
+0.10831638231489289
+... building model (hdim=20, len(X)=7550, batch_size=8, eps=0.1, eps_factor=0.99)
+... training
+Epoch 10: Cost: 0.111567
+Epoch 20: Cost: 0.109538
+Epoch 30: Cost: 0.108812
+Epoch 40: Cost: 0.108548
+Epoch 50: Cost: 0.108439
+Epoch 60: Cost: 0.108395
+Epoch 70: Cost: 0.108377
+Epoch 80: Cost: 0.108368
+Epoch 90: Cost: 0.108359
+Epoch 100: Cost: 0.108346
+Epoch 110: Cost: 0.108330
+Epoch 120: Cost: 0.108322
+Epoch 130: Cost: 0.108319
+Epoch 140: Cost: 0.108318
+Epoch 150: Cost: 0.108317
+Epoch 160: Cost: 0.108317
+Epoch 170: Cost: 0.108317
+Epoch 180: Cost: 0.108317
+Epoch 190: Cost: 0.108317
+Optimization complete.
